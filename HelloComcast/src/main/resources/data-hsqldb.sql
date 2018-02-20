@@ -1,0 +1,1 @@
+INSERT INTO comcast_customer(first_name, last_name, customer_id, email) VALUES ('Sindhu', 'Vaidyanathan', '001', 'sind@gmail.com');
